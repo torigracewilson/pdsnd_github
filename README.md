@@ -10,7 +10,9 @@ City Bikeshare Data for New York, Chicago, and Washington DC
 This project creates and interactive platform for the user to look into bike share data from 3 major US cities. 
 
 ### Files used
-Include the files used
+new_york_city.csv
+washington.csv
+chicago.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
