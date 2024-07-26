@@ -15,5 +15,9 @@ washington.csv
 chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://video.udacity-data.com/topher/2017/March/58d31eb5_ud123-git-keyterms/ud123-git-keyterms.pdf
+
+https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#Cloning-an-Existing-Repository
+
+https://www.educative.io/answers/how-to-fix-fatal-origin-does-not-appear-to-be-a-git-repository
 
