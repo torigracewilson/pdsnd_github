@@ -7,7 +7,7 @@
 City Bikeshare Data for New York, Chicago, and Washington DC
 
 ### Description
-Describe what your project is about and what it does
+This project creates and interactive platform for the user to look into bike share data from 3 major US cities. 
 
 ### Files used
 Include the files used
